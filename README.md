@@ -3,7 +3,3 @@ Quel est l’impact du nombre de soirées réalisées par semaine sur le temps d
 
 
 https://Sondage-git.github.io/etude-sondages.html
-
-
-
-
